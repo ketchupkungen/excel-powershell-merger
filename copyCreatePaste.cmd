@@ -1,0 +1,1 @@
+powershell.exe -command "& 'C:\Users\evil_\Documents\excel-powershell-merger\copyCreatePaste.ps1'Creating a new file by merging two files"
